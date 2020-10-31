@@ -1,0 +1,33 @@
+.cover{
+    display: block;
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    opacity: 0.3;
+}
+.cover:hover{
+    display: block;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+}
+.box{
+    margin-top:100px; width: 90%;margin-left: 5%;margin-right: 5%;
+}
+.footer{
+    margin: 0;
+    width: 100%;
+    height: 60px;
+    margin-right: 0;
+    background-color: black;
+    text-align: center;
+}
+.footer a{
+    color: white;
+    margin-right: 20px;
+    font-size: 18px;
+    text-decoration: underline;
+}
+body{
+    margin: 0;
+}
